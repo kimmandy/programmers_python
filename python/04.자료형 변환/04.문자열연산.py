@@ -1,0 +1,5 @@
+# print("startcoding \n" * 2)
+# print("startcoding \n" * 0)
+# print("startcoding \n" * 1.5)
+# print("startcoding \n" /2)
+print("startcoding \n" /2)
